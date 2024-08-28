@@ -6,7 +6,7 @@ ABOUT ME
 
 I'm currently working as an ML and AI engineer at Techforce Services
 
-I'm currently working on AI AND NLP AND ML AND MLOPS 
+I'm currently working on AI AND ML AND MLOPS 
 
 
 
