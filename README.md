@@ -4,11 +4,10 @@
 **Aanand452/Aanand452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ABOUT ME 
 
-- 🔭 I’m currently working at Techforce Services as an ML AND AI Engineer
-- 🌱 I’m currently working on ML ANd AI AND MLOPS AND RAG SYSTEMS
+I'm currently working as an ML and AI engineer at Techforce Services
 
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm currently working on AI AND NLP AND ML AND MLOPS 
+
+
+
 -->
